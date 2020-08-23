@@ -7,8 +7,10 @@ function App() {
   
   return (
     <div>
-      <Header></Header>
-      <Shop></Shop>
+      <Header>
+</Header>
+      <Shop>
+</Shop>
     </div>
   );
 }
